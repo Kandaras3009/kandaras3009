@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>Hi, I'm Robert</h1>
 
-<!--
-**Kandaras3009/kandaras3009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Cybersecurity Projects</h2>
+Active directory home lab
+
+
+<h2>Place holder Used</h2>
+
+
+
+
+<h2>Environments Used </h2>
+
+- <b>Windows 10</b> (21H2)
+
+<h2>Program walk-through:</h2>
+
